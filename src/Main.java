@@ -11,8 +11,8 @@ public class Main {
 
         //Задача 2
         System.out.println("Задача 2");
-        for (int j = 10; j >= 1; j--) {
-            System.out.println(j);
+        for (int z = 10; z >= 1; z--) {
+            System.out.println(z);
         }
 
         //Задача 3
